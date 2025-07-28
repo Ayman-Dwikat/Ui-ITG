@@ -1,2 +1,2 @@
 # Demo
-[Preview the design here](https://ayman-dwikat.github.io/Ui-ITG/)
+[Preview the design here](https://aymandwikat.github.io/Ui-ITG/)
